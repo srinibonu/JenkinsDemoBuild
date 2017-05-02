@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-HH8MK3H" name="firstjenkinsbuild.FirstProjectForJenkinsBuild" tests="1" failures="0" timestamp="2 May 2017 19:15:18 GMT" time="0.042" errors="0">
+  <testcase name="main" time="0.007" classname="firstjenkinsbuild.FirstProjectForJenkinsBuild">
+    <skipped/>
+  </testcase>
+</testsuite>

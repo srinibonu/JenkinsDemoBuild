@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-HH8MK3H" name="firstjenkinsbuild.FirstTestFrmJenkins" tests="1" failures="0" timestamp="2 May 2017 19:19:53 GMT" time="0.033" errors="0">
+  <testcase name="helloJenkins" time="0.017" classname="firstjenkinsbuild.FirstTestFrmJenkins"/>
+</testsuite>
