@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="18" started-at="2017-05-02T15:29:43Z" finished-at="2017-05-02T15:29:43Z">
+  <suite name="Suite" duration-ms="31" started-at="2017-05-03T10:44:23Z" finished-at="2017-05-03T10:44:23Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="18" started-at="2017-05-02T15:29:43Z" finished-at="2017-05-02T15:29:43Z">
+    <test name="Test" duration-ms="31" started-at="2017-05-03T10:44:23Z" finished-at="2017-05-03T10:44:23Z">
       <class name="firstjenkinsbuild.FirstTestFrmJenkins">
-        <test-method status="PASS" signature="helloJenkins()" name="helloJenkins" duration-ms="15" started-at="2017-05-02T15:29:43Z" finished-at="2017-05-02T15:29:43Z">
+        <test-method status="PASS" signature="helloJenkins()" name="helloJenkins" duration-ms="16" started-at="2017-05-03T10:44:23Z" finished-at="2017-05-03T10:44:23Z">
         </test-method>
       </class>
     </test>
